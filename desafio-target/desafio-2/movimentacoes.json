@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "CodigoProduto": 101,
+    "Descricao": "Compra de produtos",
+    "Tipo": "Entrada",
+    "Quantidade": 10
+  },
+  {
+    "Id": 2,
+    "CodigoProduto": 101,
+    "Descricao": "Devolu\u00E7\u00E3o de produtos",
+    "Tipo": "Entrada",
+    "Quantidade": 20
+  },
+  {
+    "Id": 3,
+    "CodigoProduto": 101,
+    "Descricao": "Ajuste de estoque",
+    "Tipo": "Sa\u00EDda",
+    "Quantidade": 80
+  },
+  {
+    "Id": 4,
+    "CodigoProduto": 104,
+    "Descricao": "Doa\u00E7\u00E3o de produtos",
+    "Tipo": "Sa\u00EDda",
+    "Quantidade": 20
+  }
+]

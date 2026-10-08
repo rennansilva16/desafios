@@ -1,0 +1,15 @@
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/vendas.json
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/desafio-1
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/desafio-1.deps.json
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/desafio-1.runtimeconfig.json
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/desafio-1.dll
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/bin/Debug/net10.0/desafio-1.pdb
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.AssemblyInfoInputs.cache
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.AssemblyInfo.cs
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.csproj.CoreCompileInputs.cache
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.dll
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/refint/desafio-1.dll
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.pdb
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/desafio-1.genruntimeconfig.cache
+/Users/rennansaguiar/Desktop/DEV/Desafios de Código/desafio-target/desafio-1/obj/Debug/net10.0/ref/desafio-1.dll
